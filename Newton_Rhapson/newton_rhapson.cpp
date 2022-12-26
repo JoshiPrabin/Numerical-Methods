@@ -22,6 +22,12 @@ int main(){
     cout<<setw(5)<<"i"<<setw(10)<<"a"<<setw(15)<<"f0"<<setw(10)<<"d0"<<setw(10)<<"b"<<setw(15)<<"f1"<<setw(10)<<endl;
     do
     {
+        if (der(a)<0.000005)
+        {
+            cout<<"Error"<<endl;
+            return 0;
+        }
+        
         f0 = func(a);
         d0 = der(a);
         b = a - (f0/d0);
