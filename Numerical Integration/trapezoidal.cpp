@@ -43,7 +43,7 @@ int main()
 }
 
 /*
-Sample output
+Sample output 
 Input: 
 Enter initial interval: 1
 
