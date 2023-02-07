@@ -57,5 +57,5 @@ Enter initial interval: 0
 Enter final interval: 6
 
 Enter number of sub-intervals: 12
-The integral is: 1.4037
+The integral is: 1.4037 
 */
