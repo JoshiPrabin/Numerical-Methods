@@ -15,7 +15,7 @@ int main()
         cin>>x0;
         cout<<"Enter the Initial value of y :";
         cin>>y0;
-        cout<<"Enter the value of the final x :";
+        cout<<"Enter the final value of the x :";
         cin>>xn;
         cout<<"Enter the value of the intervals n :";
         cin>>n;
@@ -38,7 +38,7 @@ int main()
     Sample Output
     Enter the Initial value of x :0
 Enter the Initial value of y :2
-Enter the value of the final x :5
+Enter the final value of the x :5
 Enter the value of the intervals n :3
 
 iteration        x       y      
