@@ -40,7 +40,7 @@ int main()
     Sample output
     Enter the Initial value of x :0
 Enter the Initial value of y :2
-Enter the value of the final x :5
+Enter the final value of the x :5
 Enter the value of the intervals n :5
 
 iteration        x       y 
